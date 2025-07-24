@@ -1,6 +1,6 @@
 # credit to DGTR 
 
-(codeberg.org/DGTR/mad60he-linux/)(https://codeberg.org/DGTR/mad60he-linux/raw/branch/main/README.md)
+https://codeberg.org/DGTR/mad60he-linux/raw/branch/main/README.md
 
 # Device Access for Madlions Web Driver under Linux
 
